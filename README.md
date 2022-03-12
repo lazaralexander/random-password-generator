@@ -45,7 +45,7 @@ THEN the password is either displayed in an alert or written to the page
 
 # Usage
 
-![Screenshot of Website](https://github.com/lazaralexander/portfolio/blob/main/assets/images/Screenshot%202022-03-02%20181710.png "Website")
+![Screenshot of Website](https://github.com/lazaralexander/random-password-generator/blob/main/Assets/Screenshot%202022-03-12%20094549.png "Website")
 
 # Links
 
