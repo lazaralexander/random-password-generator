@@ -2,7 +2,9 @@
 
 ## Description
 
+In this project we were tasked with creating a random password generator from very limited source code.
 
+Through arrays, loops, booleans, and randomization of characters we created a tool to generate a password within a certain length and with some limited customization options.
 
 # Assingment Details
 
