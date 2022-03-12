@@ -40,7 +40,7 @@ THEN the password is either displayed in an alert or written to the page
 
 # Installation
 
-1. Go to https://github.com/lazaralexander/portfolio
+1. Go to https://github.com/lazaralexander/random-password-generator
 2. Clone the repository
 3. Open emulation layer for Git command and clone the link
 4. Open in preferred source-code editor
